@@ -34,7 +34,7 @@ const faqs = [
 
 const FAQSection = () => {
   return (
-    <section className="py-16 md:py-24 bg-background">
+    <section id="faq" className="py-16 md:py-24 bg-background scroll-mt-20">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto">
           {/* Section Header */}

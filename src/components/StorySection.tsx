@@ -2,7 +2,7 @@ import { Quote } from "lucide-react";
 
 const StorySection = () => {
   return (
-    <section className="py-16 md:py-24 bg-card">
+    <section id="story" className="py-16 md:py-24 bg-card scroll-mt-20">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           {/* Section Header */}

@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 const Footer = () => {
   return (
-    <footer className="bg-foreground text-background py-12">
+    <footer id="contact" className="bg-foreground text-background py-12 scroll-mt-20">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           {/* Logo */}

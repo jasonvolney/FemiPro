@@ -3,7 +3,7 @@ import { Check, ShieldCheck, Truck, Clock } from "lucide-react";
 
 const CTASection = () => {
   return (
-    <section className="py-16 md:py-24 bg-gradient-hero relative overflow-hidden">
+    <section id="cta" className="py-16 md:py-24 bg-gradient-hero relative overflow-hidden scroll-mt-20">
       {/* Background decoration */}
       <div className="absolute inset-0">
         <div className="absolute top-1/4 -right-20 w-72 h-72 bg-rose-light rounded-full blur-3xl opacity-50" />

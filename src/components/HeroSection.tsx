@@ -3,7 +3,7 @@ import { Check, Shield, Leaf, Heart } from "lucide-react";
 
 const HeroSection = () => {
   return (
-    <section className="relative min-h-screen bg-gradient-hero overflow-hidden">
+    <section id="home" className="relative min-h-screen bg-gradient-hero overflow-hidden scroll-mt-20">
       {/* Background decorative elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute -top-40 -right-40 w-96 h-96 bg-rose-light rounded-full blur-3xl opacity-60" />
