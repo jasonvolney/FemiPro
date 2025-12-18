@@ -41,7 +41,7 @@ const CTASection = () => {
             </div>
 
             {/* CTA Button */}
-            <a href="https://myfemipro24.com/text.php" target="_blank" rel="noopener noreferrer">
+            <a href="http://myfemipro24.com/text.php#aff=prenedino" target="_blank" rel="noopener noreferrer">
               <Button variant="ctaLarge" size="xl" className="w-full sm:w-auto mb-6">
                 Claim Your Freedom Now
               </Button>

@@ -14,7 +14,7 @@ const Footer = () => {
             Reclaim your freedom today.
           </p>
           
-          <a href="https://myfemipro24.com/text.php" target="_blank" rel="noopener noreferrer">
+          <a href="http://myfemipro24.com/text.php#aff=prenedino" target="_blank" rel="noopener noreferrer">
             <Button variant="cta" size="lg" className="mb-8">
               Claim Your Freedom
             </Button>
